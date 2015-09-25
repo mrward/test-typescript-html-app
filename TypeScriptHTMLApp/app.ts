@@ -26,3 +26,15 @@ window.onload = () => {
     var greeter = new Greeter(el);
     greeter.start();
 };
+
+for (var abc of [1, 4, 9]) {
+}
+//dsfsd
+function foo(a: string[], b: number, c: number) { }
+
+foo`A${ 1 }B${ 2, 3 }C`;
+
+for (var jjjj of "asdfasdf") {
+}
+
+
