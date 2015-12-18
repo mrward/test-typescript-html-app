@@ -38,3 +38,9 @@ for (var jjjj of "asdfasdf") {
 }
 
 
+// TypeScript 1.7.
+var x = 2 ** 3;
+var y = 10;
+y **= 2;
+var z =  -(4 ** 3);
+
